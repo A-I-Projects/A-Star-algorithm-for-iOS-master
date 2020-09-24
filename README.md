@@ -10,7 +10,6 @@ Objectives
 
 Implementation of A* search algorithm.
 
-School project made by [William Klein](http://www.williamklein.name "William Klein") @[ITESCIA](http://www.itescia.fr/ "ITESCIA") for [M. CAZENAVE](https://www.linkedin.com/profile/view?id=52600480&locale=fr_FR&trk=tyah&trkInfo=tarId%3A1395744492492%2Ctas%3Acazenave%2Cidx%3A1-1-1 "ITESCIA").
 
 ![A Star](http://upload.wikimedia.org/wikipedia/commons/5/5d/Astar_progress_animation.gif "A Star")
 
